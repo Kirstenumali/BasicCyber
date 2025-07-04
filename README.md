@@ -8,5 +8,5 @@ curl https://xxx
 
 Use for more data of the website
 ``` bash
-curl https://xxx -i
+curl -I https://xxx 
 ```
